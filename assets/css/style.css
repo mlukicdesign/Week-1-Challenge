@@ -16,7 +16,6 @@ body {
 /* Header Styling */
 
 .header {
-    position: fixed;
     width: 100%;
     display: flex;
     padding: 20px;
@@ -77,23 +76,6 @@ a:hover{
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    display: flex;
-    justify-content: start;
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
 /* Aside Benefits Styling */
 
@@ -118,51 +100,32 @@ a:hover{
     margin-bottom: 32px;
 }
 
-/*
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-*/
-
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* 
+/* Main Service Content Styling */
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-*/
+.content {
+    display: flex;
+    justify-content: start;
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 .service-content {
     margin-bottom: 20px;
@@ -179,37 +142,6 @@ a:hover{
     transition: ease-in-out;
 }
 
-/*
-
-#search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-*/
-
 .service img {
     max-height: 200px;
 }
@@ -223,32 +155,6 @@ a:hover{
     font-size: 36px;
 }
 
-/*
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-#search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-*/
 
 /* Footer Styling */
 
