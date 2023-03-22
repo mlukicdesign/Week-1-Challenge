@@ -22,7 +22,7 @@ Additional css styling was implemented to create a more interactive experience b
 
 <h2>Site Preview</h2>
 
-<img src="/Users/maccalukic/bootcamp/Challenge1/Week-1-Challenge/assets/images/screencapture-127-0-0-1-5500-Week-1-Challenge-index-html-2023-03-22-21_35_10.png">
+<img src="assets/images/screencapture-127-0-0-1-5500-Week-1-Challenge-index-html-2023-03-22-21_35_10.png">
 
 <br>
 
