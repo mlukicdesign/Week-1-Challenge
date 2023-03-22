@@ -1,36 +1,38 @@
 # Week-1-Challenge
-Repository containing week 1's coding challenge
 
+<h2>Description</h1>
 
-Task:
-User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+This contains my submission for Week 1's coding Challenge. Our challenge was to refactor the provided code to be more in-line with accessibility standards, and have improved legibility for future collaborating developers on the team. 
+
 
 --
 
-Commit 1:
-Created new CSS classes to consolidate existing styling into something more coherent. Commented out existing classes to ensure new code worked accordingly. Will remove these on next commit. 
+<h2>Process</h2>
+
+
+The html file was adjusted to contain semantic element descriptions. For example, our main navigation links have been relabelled *nav* inside it's parent container *header*. Semantic htmls tags such as section, article, aside and footer were utilised for their respective parts.
+
+
+Additionally, I consolidated the css to be more legible to collaborating developers. New CSS classes were created to condense the amount of code, descriptions were added via comments, and unused classes were removed. During my process I *commented out* existing classes to ensure new code worked accordingly. 
+
+Additional css styling was implemented to create a more interactive experience based on this weeks classes.
+
 
 --
 
+<h2>Site Preview</h2>
 
-Existing mock-up for reference:
-![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/63089182/226178576-0cce5eec-39f2-4a56-bebc-d8c9ffd9b688.png)
+<img src="/Users/maccalukic/bootcamp/Challenge1/Week-1-Challenge/assets/images/screencapture-127-0-0-1-5500-Week-1-Challenge-index-html-2023-03-22-21_35_10.png">
+
+<br>
+
+<h2>Deployed Site Link </h2>
+
+<a href=https://mlukicdesign.github.io/Week-1-Challenge>Mackenzie Lukic's Submission</a>
 
 
-Deployed Site:
 
+
+<br>
+
+<strong>Thank you.</strong>
